@@ -4,10 +4,12 @@
 
 ### Passerelle Directe SMS, WhatsApp Business API & Vérification OTP au Maroc 🇲🇦
 
-[![Site Web](https://img.shields.io/badge/Site%20Web-envoisms.ma-0ea5e9?style=for-the-badge&logo=google-chrome&logoColor=white)](https://envoisms.ma)
-[![Documentation API](https://img.shields.io/badge/Docs%20API-v1-6366f1?style=for-the-badge&logo=readme&logoColor=white)](https://envoisms.ma/fr/docs)
-[![Disponibilité](https://img.shields.io/badge/Disponibilit%C3%A9-99.98%25-10b981?style=for-the-badge&logo=statuspage&logoColor=white)](https://envoisms.ma)
-[![Opérateurs](https://img.shields.io/badge/Routage%20Direct-IAM%20%7C%20Orange%20%7C%20Inwi-f59e0b?style=for-the-badge)](https://envoisms.ma)
+[![Site Web](https://img.shields.io/badge/Site%20Web-envoisms.ma-00E599?style=for-the-badge&logo=google-chrome&logoColor=060709)](https://envoisms.ma)
+[![Documentation API](https://img.shields.io/badge/Docs%20API-v1-00FFA3?style=for-the-badge&logo=readme&logoColor=060709)](https://envoisms.ma/fr/docs)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-EnvoiSMS--ma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/envoisms-ma)
+[![X (Twitter)](https://img.shields.io/badge/X-@EnvoiSMS__MA-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/EnvoiSMS_MA)
+[![Disponibilité](https://img.shields.io/badge/Disponibilit%C3%A9-99.99%25-10b981?style=for-the-badge&logo=statuspage&logoColor=white)](https://envoisms.ma)
+[![Opérateurs](https://img.shields.io/badge/Routage%20Direct-IAM%20%7C%20Orange%20%7C%20Inwi-059669?style=for-the-badge)](https://envoisms.ma)
 
 ---
 
@@ -23,9 +25,10 @@
 
 - **Acheminement Télécom Direct** : Connexions directes avec **Maroc Telecom (IAM)**, **Orange Maroc** et **Inwi**.
 - **Accusés de Réception Réels (DLR)** : Suivi en direct du statut d'acheminement sur le combiné de l'utilisateur final.
-- **Vérification OTP Haute Vitesse** : Délivrance des codes 2FA sous 2 à 4 secondes.
-- **WhatsApp Business API (WABA)** : Envoi de messages transactionnels et marketing certifiés Meta.
-- **Conformité Réglementaire** : Hébergement sécurisé, conformité CNDP (Loi 09-08) et RGPD.
+- **Vérification OTP Haute Vitesse** : Délivrance des codes 2FA sous 1 à 2 secondes.
+- **WhatsApp Business API (WABA)** : Envoi de messages transactionnels et marketing certifiés Meta sans coût par siège.
+- **Conformité Réglementaire** : Agrément CNDP N° D-W-872/2024 (Loi 09-08), conformité ANRT et RGPD.
+- **Model Context Protocol (MCP)** : Support officiel du standard agentique d'Anthropic pour Claude, Cursor et Copilot.
 
 ---
 
@@ -123,6 +126,8 @@ EnvoiSMS intègre nativement le **Model Context Protocol (MCP)**, permettant à 
 
 - 🌐 **Site officiel** : [https://envoisms.ma](https://envoisms.ma)
 - 📖 **Documentation interactive** : [https://envoisms.ma/fr/docs](https://envoisms.ma/fr/docs)
+- 💼 **LinkedIn** : [https://www.linkedin.com/company/envoisms-ma](https://www.linkedin.com/company/envoisms-ma)
+- 𝕏 **X (Twitter)** : [@EnvoiSMS_MA](https://x.com/EnvoiSMS_MA)
 - 💬 **WhatsApp Direct** : [+212 708-789095](https://wa.me/212708789095)
 - ✉️ **Email** : contact@envoisms.ma
 - 🏢 **Casablanca, Maroc**
